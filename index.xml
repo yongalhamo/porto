@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>YONGA LHAMO on My blog</title>
+    <link>https://yongalhamo.github.io/porto/</link>
+    <description>Recent content in YONGA LHAMO on My blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 20 Oct 2021 11:00:59 -0400</lastBuildDate><atom:link href="https://yongalhamo.github.io/porto/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project III: P.S. New York </title>
+      <link>https://yongalhamo.github.io/porto/post/project-3/</link>
+      <pubDate>Wed, 20 Oct 2021 11:00:59 -0400</pubDate>
+      
+      <guid>https://yongalhamo.github.io/porto/post/project-3/</guid>
+      <description>Introduction
+Education is or can be the foundational groundwork of a person&amp;rsquo;s material success. Bearing this thought in mind , I found it interesting how growing up in New York City we all attended schools within the zones of neighborhood that you lived in. Though there is the idea of convenience, I found that this sort of system makes it really easy to reinforce in-class mentality and perpetuate existing biases.</description>
+    </item>
+    
+    <item>
+      <title>Project II: Untangle Anime Logic</title>
+      <link>https://yongalhamo.github.io/porto/post/project-2/</link>
+      <pubDate>Mon, 20 Sep 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://yongalhamo.github.io/porto/post/project-2/</guid>
+      <description>Introduction
+Being an Anime nerd,I spend more time on anime sites than all other sites combined.while on these sites, I cant help but wonder why some anime, that in my opinion are super lukewarm get scored so highly. There are numerous contingent factors that determine the score of an anime , and in this project, I will attempt to dive into the data and find out which features best contributes to the final rank/score on the anime.</description>
+    </item>
+    
+    <item>
+      <title>Project I: Data Empowerment </title>
+      <link>https://yongalhamo.github.io/porto/post/project-1/</link>
+      <pubDate>Fri, 20 Aug 2021 11:00:59 -0400</pubDate>
+      
+      <guid>https://yongalhamo.github.io/porto/post/project-1/</guid>
+      <description>Fall of 2021,I took part in a data science bootcamp METIS, where I was challenged to utilize my analytical skills to dive into the MTA turnstile dataset and help an organization find spots around the city that would be optimal for volunteer placements.
+Background
+WomenTechWomenYes (WTWY) is a new and growing non profit organization, that focuses on increasing the participation of women in the technological space. They have an annual summer gala in New York City, to widen their reach and gather donations for the cause from passionate attendees.</description>
+    </item>
+    
+  </channel>
+</rss>
